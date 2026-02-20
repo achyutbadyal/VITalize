@@ -1,3 +1,12 @@
+# NOTICE
+> This application is no longer under active development. The server infrastructure has been decommissioned, and the app is no longer functional.
+> 
+> I will not be addressing or fixing any issues that arise.
+> 
+> You are welcome to fork the project and modify it for your own use. However, this project is provided as-is, without any warranty or guarantees.
+> 
+> Please note that this codebase was created earlier in my development journey and may not follow current best practices. It may contain architectural shortcomings or potential security vulnerabilities. I do not recommend using it in production environments.
+
 # VITalize
 VITalize is a Flutter app that helps students of VIT-AP access their academic information easily and conveniently. The app features:
 
